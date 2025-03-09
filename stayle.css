@@ -1,0 +1,42 @@
+ 
+.salom{
+    display: flex;
+    gap: 150px;
+    font-size: 40px;
+    margin-left: 30px;
+}
+.sen{
+  text-align: center;
+    font-size: 70px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.href{
+    background-color: red;
+    width: 300px;
+    margin-left: 50px;
+    padding-top: 100px;
+}
+.sef{
+    background-color: red;
+    width: 300px; 
+    margin-right: 50px;
+    padding-top: 100px;
+  
+}
+.sww{
+    display: flex;
+    height: 300px;
+   font-size: 50px;
+   justify-content:space-between;
+   text-align: center;
+   color: white;
+}
+.nin{
+    display: flex;
+    gap: 150px;
+    font-size: 40px;
+    margin-top: 200px;
+    margin-left: 30px;
+    
+}
